@@ -4,3 +4,6 @@ the user must be able to post and view others project that they have posted. the
 
 
 # By Sandrine Tuyizere
+
+## Author
+Project by TUYIZERE Sandrine
