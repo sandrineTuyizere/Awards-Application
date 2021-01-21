@@ -34,3 +34,10 @@ he application will allow a user to post a project he/she has created and get it
 * css
 * Postgres SQLALchemy
 
+# Behavior Driven Development (BDD)
+* Create structure etc..
+* Create 3 classs are Profile,Project, Rates
+* Create test file to test all your method
+* Create the manage file for used to run all your test
+* Create Start.sh to help you to run and open the server
+* Create a config file to link your project qith the database or any url link
