@@ -55,3 +55,5 @@ Use Terminal to open the server and the brouser to run this application
 * Create a new Django project using django-admin startproject name-of-project .
 * Create a new Django app using django-admin startapp name-of-the-app .
 * Run the development server confirm the project works.
+
+## support and contact details
