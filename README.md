@@ -47,3 +47,11 @@ he application will allow a user to post a project he/she has created and get it
 Use Terminal to open the server and the brouser to run this application
 
 # Prerequisites && Installations
+
+
+* Create and Activate a virtual environment.
+* Download Django using pip install django==1.11
+* Create a requirements.txt file with all the dependencies
+* Create a new Django project using django-admin startproject name-of-project .
+* Create a new Django app using django-admin startapp name-of-the-app .
+* Run the development server confirm the project works.
