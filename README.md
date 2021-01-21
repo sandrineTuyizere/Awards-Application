@@ -43,3 +43,5 @@ he application will allow a user to post a project he/she has created and get it
 * Create a config file to link your project qith the database or any url link
 
 # Run
+
+Use Terminal to open the server and the brouser to run this application
