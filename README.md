@@ -20,7 +20,7 @@ he application will allow a user to post a project he/she has created and get it
 * View details of projects 
 * Rate/ review other users' projects
 
-# # Technology used 
+#  Technology used 
 
 
 * Python3.6
@@ -41,3 +41,5 @@ he application will allow a user to post a project he/she has created and get it
 * Create the manage file for used to run all your test
 * Create Start.sh to help you to run and open the server
 * Create a config file to link your project qith the database or any url link
+
+# Run
