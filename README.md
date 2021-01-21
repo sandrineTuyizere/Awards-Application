@@ -59,3 +59,4 @@ Use Terminal to open the server and the brouser to run this application
 ## support and contact details
 
 for more information,ideas or reccommendation you can reach to me by my email address : sadrauyizere@gmail.com
+## License
