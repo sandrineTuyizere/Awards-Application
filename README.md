@@ -57,3 +57,5 @@ Use Terminal to open the server and the brouser to run this application
 * Run the development server confirm the project works.
 
 ## support and contact details
+
+for more information,ideas or reccommendation you can reach to me by my email address : sadrauyizere@gmail.com
