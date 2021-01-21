@@ -13,9 +13,11 @@ he application will allow a user to post a project he/she has created and get it
 
 # User Story
 * View my profile page
-* Post a project to be rated/reviewed
+* Post a project 
+* rated/reviewed
 * Search for projects
-* View posted projects and their details
+* View posted projects 
+* View details of projects 
 
 * Rate/ review other users' projects
 
