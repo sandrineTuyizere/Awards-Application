@@ -18,7 +18,19 @@ he application will allow a user to post a project he/she has created and get it
 * Search for projects
 * View posted projects 
 * View details of projects 
-
 * Rate/ review other users' projects
 
-View projects overall score
+# # Technology used 
+
+
+* Python3.6
+* Django
+* terminal
+* ubuntu window
+* html
+* jQuery,Javascript
+* Ajax
+* Postman
+* css
+* Postgres SQLALchemy
+
