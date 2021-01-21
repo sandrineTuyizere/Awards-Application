@@ -45,3 +45,5 @@ he application will allow a user to post a project he/she has created and get it
 # Run
 
 Use Terminal to open the server and the brouser to run this application
+
+# Prerequisites && Installations
